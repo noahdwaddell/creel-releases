@@ -74,4 +74,4 @@ Most free online file converters upload your files to remote servers, queue your
 
 1. Download **`CreelSetup-1.2.0.exe`** from the [Releases](https://github.com/noahdwaddell/creel-releases/releases/latest) section.
 2. Run the installer (installs cleanly into your local user profile without requiring admin privileges).
-3. Open Creel, drag & drop your files, choose your desired output format, and click **Convert**.<img width="150" height="150" alt="CreelSVG" src="https://github.com/user-attachments/assets/09d98173-c655-42fa-9775-c93de29f8a78" />
+3. Open Creel, drag & drop your files, choose your desired output format, and click **Convert**.
