@@ -20,23 +20,23 @@ Grab the latest installer for your system:
 | :--- | :--- | :---: | :---: |
 | 🪟 **Windows 10 / 11 (x64)** | `1.2.1` | 🟢 **Available** | [**📥 Download v1.2.1**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/CreelSetup-1.2.1.exe) |
 | 🍏 **macOS (Apple Silicon / Intel)** | `.dmg` | 🟡 Coming Soon | — |
-| 🐧 **Linux (AppImage / .deb)** | `.tar.gz` | 🟡 Coming Soon | — |
+| 🐧 **Linux (x64)** | `.deb` / `.AppImage` | 🟢 **Available** | [**📥 .deb**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/creel_1.2.1_amd64.deb) / [**📥 AppImage**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/Creel-1.2.1-x86_64.AppImage) |
 
 > [!NOTE]
-> The Windows installer is fully self-contained (~476 MB). All conversion engines (**LibreOffice, QPDF, Pandoc, FFmpeg, Tesseract OCR, and pdf2docx**) are bundled directly. No separate downloads, Python runtime, or administrative setup required.
+> The Windows installer is fully self-contained (~476 MB). All conversion engines (**LibreOffice, QPDF, Pandoc, FFmpeg, Tesseract OCR, and pdf2docx**) are bundled directly. No separate downloads, Python, or additional dependencies required.
 
 ---
 
 ## ✨ What's New in v1.2.1
-- 🖱️ **Windows Explorer Right-Click Integration:** Convert files right from your Windows context menu (*Convert to PDF*, *Convert to Word DOCX*, *Convert to JPG/PNG*, *Convert to MP4*, or *Extract MP3*) without opening the app window. Toggle on/off anytime in Settings.
-- 💻 **Headless / Silent CLI Mode:** Script conversions directly from PowerShell or Command Prompt (`creel --silent --convert <file> --to <format> [--out <dir>]`) with native Windows desktop toast notification alerts on completion.
+- 🖱️ **Windows Explorer Right-Click Integration:** Convert files right from your Windows context menu (*Convert to PDF*, *Convert to Word DOCX*, *Convert to JPG/PNG*, *Convert to MP4*, or *Extract MP3*) in seconds without launching the app.
+- 💻 **Headless / Silent CLI Mode:** Script conversions directly from PowerShell or Command Prompt (`creel --silent --convert <file> --to <format> [--out <dir>]`) with native Windows desktop toast notifications.
 - ♾️ **Unlimited Free Tier:** Lifted daily quotas to unlimited conversions on desktop — convert as many files as you need, 100% offline with zero ads.
 - 🔄 **In-App Auto Updater:** Checks GitHub releases on launch or on-demand from Settings, with one-click seamless background download and silent in-place installation.
 - 📝 **PDF to Editable Word (DOCX):** High-fidelity document conversion from PDF back into formatted Microsoft Word (`.docx`) files using bundled offline sidecar tooling.
 - 🛡️ **File Overwrite Protection:** Intelligent overwrite confirmation dialogs prevent accidental data loss.
 - 🩺 **Integrated Diagnostics & Bug Reporting:** Fast diagnostic logging and in-app bug report generator accessible via Settings and About.
 - 🧹 **Automated Cache & History Pruning:** Thumbnail cache auto-prunes files older than 7 days, and conversion history purges records older than 90 days to keep disk space lean.
-- ⏱️ **Reliability & Timeouts:** Process safety timeouts on all conversion backends (Pandoc, LibreOffice, ImageMagick, pdf2docx) to eliminate hanging processes, plus larger hit targets on the PDF visual organizer.
+- ⏱️ **Reliability & Timeouts:** Process safety timeouts on all conversion backends (Pandoc, LibreOffice, ImageMagick, pdf2docx) to eliminate hanging processes, plus larger hit targets on the PDF toolbar.
 
 ---
 
