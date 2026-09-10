@@ -18,7 +18,7 @@ Grab the latest installer for your system:
 
 | Platform | Build | Status | Download |
 | :--- | :--- | :---: | :---: |
-| 🪟 **Windows 10 / 11 (x64)** | `CreelSetup-1.2.1.exe` | 🟢 **Available** | [**📥 Download v1.2.1**](https://github.com/noahdwaddell/creel-releases/releases/latest) |
+| 🪟 **Windows 10 / 11 (x64)** | `1.2.1` | 🟢 **Available** | [**📥 Download v1.2.1**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/CreelSetup-1.2.1.exe) |
 | 🍏 **macOS (Apple Silicon / Intel)** | `.dmg` | 🟡 Coming Soon | — |
 | 🐧 **Linux (AppImage / .deb)** | `.tar.gz` | 🟡 Coming Soon | — |
 
