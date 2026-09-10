@@ -18,9 +18,9 @@ Grab the latest installer for your system:
 
 | Platform | Build | Status | Download |
 | :--- | :--- | :---: | :---: |
-| 🪟 **Windows 10 / 11 (x64)** | `1.2.1` | 🟢 **Available** | [**📥 Download v1.2.1**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/CreelSetup-1.2.1.exe) |
+| 🪟 **Windows 10 / 11 (x64)** | `v1.2.1` | 🟢 **Available** | [**📥 .exe**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/CreelSetup-1.2.1.exe) |
 | 🍏 **macOS (Apple Silicon / Intel)** | `.dmg` | 🟡 Coming Soon | — |
-| 🐧 **Linux (x64)** | `.deb` / `.AppImage` | 🟢 **Available** | [**📥 .deb**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/creel_1.2.1_amd64.deb) / [**📥 AppImage**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/Creel-1.2.1-x86_64.AppImage) |
+| 🐧 **Linux (x64)** | `v1.2.1` | 🟢 **Available** | [**📥 .deb**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/creel_1.2.1_amd64.deb) / [**📥 AppImage**](https://github.com/noahdwaddell/creel-releases/releases/download/v1.2.1/Creel-1.2.1-x86_64.AppImage) |
 
 > [!NOTE]
 > The Windows installer is fully self-contained (~476 MB). All conversion engines (**LibreOffice, QPDF, Pandoc, FFmpeg, Tesseract OCR, and pdf2docx**) are bundled directly. No separate downloads, Python, or additional dependencies required.
